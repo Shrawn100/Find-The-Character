@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Find-The-Character/static/css/main.ba71ba9f.css",
+    "main.js": "/Find-The-Character/static/js/main.991cb47e.js",
+    "static/js/787.88a6e106.chunk.js": "/Find-The-Character/static/js/787.88a6e106.chunk.js",
+    "static/media/crop2.jpg": "/Find-The-Character/static/media/crop2.87b28cdede49d0c38542.jpg",
+    "static/media/crash.png": "/Find-The-Character/static/media/crash.4f514abf95bbcce9a4d0.png",
+    "static/media/ash.png": "/Find-The-Character/static/media/ash.e717d38f2544f620ae08.png",
+    "static/media/spyro.png": "/Find-The-Character/static/media/spyro.d7bb1aa4f704de2320b7.png",
+    "index.html": "/Find-The-Character/index.html",
+    "main.ba71ba9f.css.map": "/Find-The-Character/static/css/main.ba71ba9f.css.map",
+    "main.991cb47e.js.map": "/Find-The-Character/static/js/main.991cb47e.js.map",
+    "787.88a6e106.chunk.js.map": "/Find-The-Character/static/js/787.88a6e106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba71ba9f.css",
+    "static/js/main.991cb47e.js"
+  ]
+}
